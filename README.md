@@ -1,10 +1,10 @@
-# Frontend Mentor - Aplikasi Pemesanan Makanan Responsif dengan HTML, CSS dan JavaScript
+# Frontend Mentor - Responsive Food Order App with HTML, CSS dan JavaScript
 
 ![Pratinjau desain untuk Aplikasi Pemesanan Makanan Responsif dengan HTML, CSS, dan JavaScript](./design/desktop-preview.jpg)
 
-## Selamat datang! 👋
+## Welcome! 👋
 
-Terima kasih telah mencoba tantangan pengkodean front-end ini.
+Thanks for checking out this front-end coding challenge.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
